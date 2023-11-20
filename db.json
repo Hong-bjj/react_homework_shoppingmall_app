@@ -1,0 +1,144 @@
+{
+    "products":[
+        {
+            "id":0,
+            "img":"https://jiujitsukor.com/web/product/medium/202207/ef057c16442aa92e5885e65b288d4ccb.png",
+            "title":"벨티드 트윌 코트",
+            "price":99900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":1,
+            "img":"https://jiujitsukor.com/web/product/medium/202207/ba11d08a56332e52fdd10b50c73d652b.png",
+            "title":"슬림핏 맘 하이웨이스트 앵클 진",
+            "price":29900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":2,
+            "img":"https://jiujitsukor.com/web/product/medium/202207/f58480bc3c572a95ee57a8fddfff64d1.png",
+            "title":"와이드 하이웨이스트 진",
+            "price":39900,
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":3,
+            "img":"https://jiujitsukor.com/web/product/medium/201910/c52433aa135b60c44a50090307aa5676.png",
+            "title":"퍼프 슬리브 드레스",
+            "price":39900,
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":4,
+            "img":"https://jiujitsukor.com/web/product/medium/202101/1d8769b65785276577e753ebaa6a3e7e.jpg",
+            "title":"프릴 디테일 블라우스",
+            "price":29900,
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":5,
+            "img":"https://jiujitsukor.com/web/product/medium/202308/79c0c8a951513e19448b0d83c69a0888.webp",
+            "title":"자카드 셔츠 드레스",
+            "price":39900,
+            "choice":false,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":6,
+            "img":"https://jiujitsukor.com/web/product/medium/202205/917f39c4176c4d02474269344c67fba1.png",
+            "title":"더블 브레스티드 재킷",
+            "price":39900,
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":7,
+            "img":"https://jiujitsukor.com/web/product/medium/202209/9087d4650cced6353f983b84dee399cb.png",
+            "title":"오버사이즈 집업 후디",
+            "price":99900,
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":8,
+            "img":"https://jiujitsukor.com/web/product/medium/202308/969eb6ee1562c7647edcf40598a13085.png",
+            "title":"프린트 크롭트 탑",
+            "price":14900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":9,
+            "img":"https://jiujitsukor.com/web/product/medium/202308/21ac23e4f9754c78af6486fedbdf79d2.webp",
+            "title":"프린트 티셔츠",
+            "price":19900,
+            "choice":false,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":10,
+            "img":"https://jiujitsukor.com/web/product/medium/202303/240326601b98517610bf571924780a99.png",
+            "title":"와이드 트윌 팬츠",
+            "price":19900,
+            "choice":true,
+            "new":false,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":11,
+            "img":"https://jiujitsukor.com/web/product/medium/202303/858ec84416d65487424e75ab251f942c.png",
+            "title":"플레어 로라이즈 진",
+            "price":29900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":12,
+            "img":"https://jiujitsukor.com/web/product/medium/202302/f9278151a15b4456d1b7a996d8132750.png",
+            "title":"프린트 크롭트 탑",
+            "price":14900,
+            "choice":true,
+            "new":true,
+            "size":["S","M","L"]
+
+        },
+        {
+            "id":13,
+            "img":"https://jiujitsukor.com/web/product/medium/202309/b7de0aa4d75917d84e79409502f96e80.png",
+            "title":"플레어 로라이즈 진",
+            "price":29900,
+            "choice":false,
+            "new":false,
+            "size":["S","M","L"]
+
+        }
+    ]
+}
